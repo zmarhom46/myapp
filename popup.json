@@ -1,0 +1,10 @@
+{
+  "showPopup": true,
+  "title": "老友活动入口",
+  "desc": "先回答问题，答对后才能跳转",
+  "buttonText": "立即进群",
+  "url": "https://qm.qq.com/q/your_link",
+  "image": "https://your-image-host/popup-bg.jpg",
+  "question": "多少级可以穿戴团武器",
+  "answers": ["65", "60"]
+}
