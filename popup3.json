@@ -7,5 +7,6 @@
   "imageMode": "local",
   "localImageName": "image",
   "question": "多少级可以打团本？",
-  "answers": ["65", "60"]
+  "answers": ["65", "60"],
+  "allowWrongAnswerJump": true
 }
