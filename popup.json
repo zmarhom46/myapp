@@ -1,10 +1,10 @@
 {
   "showPopup": true,
   "title": "阿拉德0.1折",
-  "desc": "先回答问题，答对后才能跳转",
+  "desc": "先回答问题，答对后才能加群",
   "buttonText": "立即进群",
   "url": "https://qm.qq.com/q/2g3BioDLYg",
   "image": "https://raw.githubusercontent.com/zmarhom46/myapp/refs/heads/main/popup.png",
-  "question": "多少级可以打团本？",
+  "question": "多少级可以打团本？（答案60）",
   "answers": ["65", "60"]
 }
