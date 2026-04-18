@@ -1,5 +1,5 @@
 {
-  "showPopup": false,
+  "showPopup": true,
   "title": "阿拉德0.1折",
   "desc": "先回答问题，答对后才能跳转",
   "buttonText": "立即进群",
